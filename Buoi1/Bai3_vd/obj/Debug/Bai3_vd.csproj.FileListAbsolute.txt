@@ -1,0 +1,7 @@
+D:\Lập Trình.NET\Buoi1\Bai3_vd\obj\Debug\Bai3_vd.csproj.AssemblyReference.cache
+D:\Lập Trình.NET\Buoi1\Bai3_vd\obj\Debug\Bai3_vd.csproj.CoreCompileInputs.cache
+D:\Lập Trình.NET\Buoi1\Bai3_vd\bin\Debug\Bai3_vd.exe.config
+D:\Lập Trình.NET\Buoi1\Bai3_vd\bin\Debug\Bai3_vd.exe
+D:\Lập Trình.NET\Buoi1\Bai3_vd\bin\Debug\Bai3_vd.pdb
+D:\Lập Trình.NET\Buoi1\Bai3_vd\obj\Debug\Bai3_vd.exe
+D:\Lập Trình.NET\Buoi1\Bai3_vd\obj\Debug\Bai3_vd.pdb

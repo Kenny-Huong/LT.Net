@@ -1,0 +1,7 @@
+D:\Lập Trình.NET\Buoi1\Bai_1\bin\Debug\Bai_1.exe.config
+D:\Lập Trình.NET\Buoi1\Bai_1\bin\Debug\Bai_1.exe
+D:\Lập Trình.NET\Buoi1\Bai_1\bin\Debug\Bai_1.pdb
+D:\Lập Trình.NET\Buoi1\Bai_1\obj\Debug\Bai_1.csproj.AssemblyReference.cache
+D:\Lập Trình.NET\Buoi1\Bai_1\obj\Debug\Bai_1.csproj.CoreCompileInputs.cache
+D:\Lập Trình.NET\Buoi1\Bai_1\obj\Debug\Bai_1.exe
+D:\Lập Trình.NET\Buoi1\Bai_1\obj\Debug\Bai_1.pdb

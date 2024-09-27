@@ -1,0 +1,7 @@
+D:\Lập Trình.NET\Buoi1\Bai2_vd\bin\Debug\Bai2_vd.exe.config
+D:\Lập Trình.NET\Buoi1\Bai2_vd\bin\Debug\Bai2_vd.exe
+D:\Lập Trình.NET\Buoi1\Bai2_vd\bin\Debug\Bai2_vd.pdb
+D:\Lập Trình.NET\Buoi1\Bai2_vd\obj\Debug\Bai2_vd.csproj.AssemblyReference.cache
+D:\Lập Trình.NET\Buoi1\Bai2_vd\obj\Debug\Bai2_vd.csproj.CoreCompileInputs.cache
+D:\Lập Trình.NET\Buoi1\Bai2_vd\obj\Debug\Bai2_vd.exe
+D:\Lập Trình.NET\Buoi1\Bai2_vd\obj\Debug\Bai2_vd.pdb
