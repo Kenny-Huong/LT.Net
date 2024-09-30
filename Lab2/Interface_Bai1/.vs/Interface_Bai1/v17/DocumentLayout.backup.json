@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LT.Net\\Lab2\\Interface_Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2855F56D-9885-4A7D-A878-71A79B413E4B}|..\\Interface_Bai2\\Interface_Bai2.csproj|d:\\lt.net\\lab2\\interface_bai2\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2855F56D-9885-4A7D-A878-71A79B413E4B}|..\\Interface_Bai2\\Interface_Bai2.csproj|d:\\lt.net\\lab2\\interface_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2855F56D-9885-4A7D-A878-71A79B413E4B}|..\\Interface_Bai2\\Interface_Bai2.csproj|d:\\lt.net\\lab2\\interface_bai2\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BF4F82-4C5B-404C-93B2-2F1425CA0880}|Interface_Bai1.csproj|d:\\lt.net\\lab2\\interface_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BF4F82-4C5B-404C-93B2-2F1425CA0880}|Interface_Bai1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BF4F82-4C5B-404C-93B2-2F1425CA0880}|Interface_Bai1.csproj|d:\\lt.net\\lab2\\interface_bai1\\giaodichhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BF4F82-4C5B-404C-93B2-2F1425CA0880}|Interface_Bai1.csproj|solutionrelative:giaodichhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BF4F82-4C5B-404C-93B2-2F1425CA0880}|Interface_Bai1.csproj|d:\\lt.net\\lab2\\interface_bai1\\giaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BF4F82-4C5B-404C-93B2-2F1425CA0880}|Interface_Bai1.csproj|solutionrelative:giaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab2\\Interface_Bai2\\SinhVien.cs",
+              "RelativeDocumentMoniker": "..\\Interface_Bai2\\SinhVien.cs",
+              "ToolTip": "D:\\LT.Net\\Lab2\\Interface_Bai2\\SinhVien.cs",
+              "RelativeToolTip": "..\\Interface_Bai2\\SinhVien.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:18:21.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nguoi.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab2\\Interface_Bai2\\Nguoi.cs",
+              "RelativeDocumentMoniker": "..\\Interface_Bai2\\Nguoi.cs",
+              "ToolTip": "D:\\LT.Net\\Lab2\\Interface_Bai2\\Nguoi.cs",
+              "RelativeToolTip": "..\\Interface_Bai2\\Nguoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:17:55.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab2\\Interface_Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Interface_Bai2\\Program.cs",
+              "ToolTip": "D:\\LT.Net\\Lab2\\Interface_Bai2\\Program.cs",
+              "RelativeToolTip": "..\\Interface_Bai2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:17:25.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiaoDichHangHoa.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab2\\Interface_Bai1\\GiaoDichHangHoa.cs",
+              "RelativeDocumentMoniker": "GiaoDichHangHoa.cs",
+              "ToolTip": "D:\\LT.Net\\Lab2\\Interface_Bai1\\GiaoDichHangHoa.cs",
+              "RelativeToolTip": "GiaoDichHangHoa.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAawCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:12:34.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GiaoDich.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab2\\Interface_Bai1\\GiaoDich.cs",
+              "RelativeDocumentMoniker": "GiaoDich.cs",
+              "ToolTip": "D:\\LT.Net\\Lab2\\Interface_Bai1\\GiaoDich.cs",
+              "RelativeToolTip": "GiaoDich.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:11:30.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab2\\Interface_Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\LT.Net\\Lab2\\Interface_Bai1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:10:48.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

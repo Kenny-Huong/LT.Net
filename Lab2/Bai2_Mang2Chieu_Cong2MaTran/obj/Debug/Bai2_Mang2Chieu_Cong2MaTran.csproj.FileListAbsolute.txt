@@ -1,0 +1,7 @@
+D:\LT.Net\Lab2\Bai2_Mang2Chieu_Cong2MaTran\bin\Debug\Bai2_Mang2Chieu_Cong2MaTran.exe.config
+D:\LT.Net\Lab2\Bai2_Mang2Chieu_Cong2MaTran\bin\Debug\Bai2_Mang2Chieu_Cong2MaTran.exe
+D:\LT.Net\Lab2\Bai2_Mang2Chieu_Cong2MaTran\bin\Debug\Bai2_Mang2Chieu_Cong2MaTran.pdb
+D:\LT.Net\Lab2\Bai2_Mang2Chieu_Cong2MaTran\obj\Debug\Bai2_Mang2Chieu_Cong2MaTran.csproj.AssemblyReference.cache
+D:\LT.Net\Lab2\Bai2_Mang2Chieu_Cong2MaTran\obj\Debug\Bai2_Mang2Chieu_Cong2MaTran.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab2\Bai2_Mang2Chieu_Cong2MaTran\obj\Debug\Bai2_Mang2Chieu_Cong2MaTran.exe
+D:\LT.Net\Lab2\Bai2_Mang2Chieu_Cong2MaTran\obj\Debug\Bai2_Mang2Chieu_Cong2MaTran.pdb

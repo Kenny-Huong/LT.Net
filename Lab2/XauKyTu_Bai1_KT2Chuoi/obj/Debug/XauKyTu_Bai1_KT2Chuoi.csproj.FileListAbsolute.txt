@@ -1,0 +1,7 @@
+D:\LT.Net\Lab2\XauKyTu_Bai1_KT2Chuoi\bin\Debug\XauKyTu_Bai1_KT2Chuoi.exe.config
+D:\LT.Net\Lab2\XauKyTu_Bai1_KT2Chuoi\bin\Debug\XauKyTu_Bai1_KT2Chuoi.exe
+D:\LT.Net\Lab2\XauKyTu_Bai1_KT2Chuoi\bin\Debug\XauKyTu_Bai1_KT2Chuoi.pdb
+D:\LT.Net\Lab2\XauKyTu_Bai1_KT2Chuoi\obj\Debug\XauKyTu_Bai1_KT2Chuoi.csproj.AssemblyReference.cache
+D:\LT.Net\Lab2\XauKyTu_Bai1_KT2Chuoi\obj\Debug\XauKyTu_Bai1_KT2Chuoi.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab2\XauKyTu_Bai1_KT2Chuoi\obj\Debug\XauKyTu_Bai1_KT2Chuoi.exe
+D:\LT.Net\Lab2\XauKyTu_Bai1_KT2Chuoi\obj\Debug\XauKyTu_Bai1_KT2Chuoi.pdb

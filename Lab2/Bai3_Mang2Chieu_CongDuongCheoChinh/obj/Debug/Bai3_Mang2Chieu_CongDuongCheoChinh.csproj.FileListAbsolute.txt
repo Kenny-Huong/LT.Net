@@ -1,0 +1,7 @@
+D:\LT.Net\Lab2\Bai3_Mang2Chieu_CongDuongCheoChinh\bin\Debug\Bai3_Mang2Chieu_CongDuongCheoChinh.exe.config
+D:\LT.Net\Lab2\Bai3_Mang2Chieu_CongDuongCheoChinh\bin\Debug\Bai3_Mang2Chieu_CongDuongCheoChinh.exe
+D:\LT.Net\Lab2\Bai3_Mang2Chieu_CongDuongCheoChinh\bin\Debug\Bai3_Mang2Chieu_CongDuongCheoChinh.pdb
+D:\LT.Net\Lab2\Bai3_Mang2Chieu_CongDuongCheoChinh\obj\Debug\Bai3_Mang2Chieu_CongDuongCheoChinh.csproj.AssemblyReference.cache
+D:\LT.Net\Lab2\Bai3_Mang2Chieu_CongDuongCheoChinh\obj\Debug\Bai3_Mang2Chieu_CongDuongCheoChinh.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab2\Bai3_Mang2Chieu_CongDuongCheoChinh\obj\Debug\Bai3_Mang2Chieu_CongDuongCheoChinh.exe
+D:\LT.Net\Lab2\Bai3_Mang2Chieu_CongDuongCheoChinh\obj\Debug\Bai3_Mang2Chieu_CongDuongCheoChinh.pdb

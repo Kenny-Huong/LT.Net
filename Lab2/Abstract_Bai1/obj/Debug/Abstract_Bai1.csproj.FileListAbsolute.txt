@@ -1,0 +1,7 @@
+D:\LT.Net\Lab2\Abstract_Bai1\obj\Debug\Abstract_Bai1.csproj.AssemblyReference.cache
+D:\LT.Net\Lab2\Abstract_Bai1\obj\Debug\Abstract_Bai1.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab2\Abstract_Bai1\bin\Debug\Abstract_Bai1.exe.config
+D:\LT.Net\Lab2\Abstract_Bai1\bin\Debug\Abstract_Bai1.exe
+D:\LT.Net\Lab2\Abstract_Bai1\bin\Debug\Abstract_Bai1.pdb
+D:\LT.Net\Lab2\Abstract_Bai1\obj\Debug\Abstract_Bai1.exe
+D:\LT.Net\Lab2\Abstract_Bai1\obj\Debug\Abstract_Bai1.pdb

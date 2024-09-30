@@ -1,0 +1,7 @@
+D:\LT.Net\Lab2\Interface_Bai2\bin\Debug\Interface_Bai2.exe.config
+D:\LT.Net\Lab2\Interface_Bai2\bin\Debug\Interface_Bai2.exe
+D:\LT.Net\Lab2\Interface_Bai2\bin\Debug\Interface_Bai2.pdb
+D:\LT.Net\Lab2\Interface_Bai2\obj\Debug\Interface_Bai2.csproj.AssemblyReference.cache
+D:\LT.Net\Lab2\Interface_Bai2\obj\Debug\Interface_Bai2.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab2\Interface_Bai2\obj\Debug\Interface_Bai2.exe
+D:\LT.Net\Lab2\Interface_Bai2\obj\Debug\Interface_Bai2.pdb
