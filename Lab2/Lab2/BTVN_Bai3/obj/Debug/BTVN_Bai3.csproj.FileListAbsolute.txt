@@ -1,0 +1,7 @@
+D:\LT.Net\Lab2\BTVN_Bai3\bin\Debug\BTVN_Bai3.exe.config
+D:\LT.Net\Lab2\BTVN_Bai3\bin\Debug\BTVN_Bai3.exe
+D:\LT.Net\Lab2\BTVN_Bai3\bin\Debug\BTVN_Bai3.pdb
+D:\LT.Net\Lab2\BTVN_Bai3\obj\Debug\BTVN_Bai3.csproj.AssemblyReference.cache
+D:\LT.Net\Lab2\BTVN_Bai3\obj\Debug\BTVN_Bai3.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab2\BTVN_Bai3\obj\Debug\BTVN_Bai3.exe
+D:\LT.Net\Lab2\BTVN_Bai3\obj\Debug\BTVN_Bai3.pdb

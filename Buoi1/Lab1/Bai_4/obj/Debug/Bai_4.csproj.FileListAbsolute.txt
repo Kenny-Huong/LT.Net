@@ -1,0 +1,7 @@
+D:\LT.Net\Buoi1\Bai_4\bin\Debug\Bai_4.exe.config
+D:\LT.Net\Buoi1\Bai_4\bin\Debug\Bai_4.exe
+D:\LT.Net\Buoi1\Bai_4\bin\Debug\Bai_4.pdb
+D:\LT.Net\Buoi1\Bai_4\obj\Debug\Bai_4.csproj.AssemblyReference.cache
+D:\LT.Net\Buoi1\Bai_4\obj\Debug\Bai_4.csproj.CoreCompileInputs.cache
+D:\LT.Net\Buoi1\Bai_4\obj\Debug\Bai_4.exe
+D:\LT.Net\Buoi1\Bai_4\obj\Debug\Bai_4.pdb
