@@ -1,0 +1,10 @@
+D:\LT.Net\Lab3\Bai4_vd\bin\Debug\Bai4_vd.exe.config
+D:\LT.Net\Lab3\Bai4_vd\bin\Debug\Bai4_vd.exe
+D:\LT.Net\Lab3\Bai4_vd\bin\Debug\Bai4_vd.pdb
+D:\LT.Net\Lab3\Bai4_vd\obj\Debug\Bai4_vd.csproj.AssemblyReference.cache
+D:\LT.Net\Lab3\Bai4_vd\obj\Debug\Bai4_vd.Form1.resources
+D:\LT.Net\Lab3\Bai4_vd\obj\Debug\Bai4_vd.Properties.Resources.resources
+D:\LT.Net\Lab3\Bai4_vd\obj\Debug\Bai4_vd.csproj.GenerateResource.cache
+D:\LT.Net\Lab3\Bai4_vd\obj\Debug\Bai4_vd.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab3\Bai4_vd\obj\Debug\Bai4_vd.exe
+D:\LT.Net\Lab3\Bai4_vd\obj\Debug\Bai4_vd.pdb

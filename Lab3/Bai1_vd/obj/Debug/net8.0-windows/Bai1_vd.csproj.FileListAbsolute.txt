@@ -1,0 +1,17 @@
+D:\LT.Net\Lab3\Bai1_vd\bin\Debug\net8.0-windows\Bai1_vd.exe
+D:\LT.Net\Lab3\Bai1_vd\bin\Debug\net8.0-windows\Bai1_vd.deps.json
+D:\LT.Net\Lab3\Bai1_vd\bin\Debug\net8.0-windows\Bai1_vd.runtimeconfig.json
+D:\LT.Net\Lab3\Bai1_vd\bin\Debug\net8.0-windows\Bai1_vd.dll
+D:\LT.Net\Lab3\Bai1_vd\bin\Debug\net8.0-windows\Bai1_vd.pdb
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\Bai1_vd.Form1.resources
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\Bai1_vd.csproj.GenerateResource.cache
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\Bai1_vd.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\Bai1_vd.AssemblyInfoInputs.cache
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\Bai1_vd.AssemblyInfo.cs
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\Bai1_vd.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\Bai1_vd.sourcelink.json
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\Bai1_vd.dll
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\refint\Bai1_vd.dll
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\Bai1_vd.pdb
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\Bai1_vd.genruntimeconfig.cache
+D:\LT.Net\Lab3\Bai1_vd\obj\Debug\net8.0-windows\ref\Bai1_vd.dll

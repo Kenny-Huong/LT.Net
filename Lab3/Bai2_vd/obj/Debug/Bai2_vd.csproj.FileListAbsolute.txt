@@ -1,0 +1,10 @@
+D:\LT.Net\Lab3\Bai2_vd\bin\Debug\Bai2_vd.exe.config
+D:\LT.Net\Lab3\Bai2_vd\bin\Debug\Bai2_vd.exe
+D:\LT.Net\Lab3\Bai2_vd\bin\Debug\Bai2_vd.pdb
+D:\LT.Net\Lab3\Bai2_vd\obj\Debug\Bai2_vd.csproj.AssemblyReference.cache
+D:\LT.Net\Lab3\Bai2_vd\obj\Debug\Bai2_vd.Form1.resources
+D:\LT.Net\Lab3\Bai2_vd\obj\Debug\Bai2_vd.Properties.Resources.resources
+D:\LT.Net\Lab3\Bai2_vd\obj\Debug\Bai2_vd.csproj.GenerateResource.cache
+D:\LT.Net\Lab3\Bai2_vd\obj\Debug\Bai2_vd.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab3\Bai2_vd\obj\Debug\Bai2_vd.exe
+D:\LT.Net\Lab3\Bai2_vd\obj\Debug\Bai2_vd.pdb
