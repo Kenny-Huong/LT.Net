@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,7 +11,7 @@ namespace BTVN_Bai4
     internal class QuanLySinhVien : SinhVien
     {
         ArrayList listSV = new ArrayList();
-        
+
         public void ThemSinhVien()
         {
             SinhVien sv = new SinhVien();
@@ -21,7 +22,7 @@ namespace BTVN_Bai4
                 maTrung = false; // Giả định rằng mã không trùng
 
                 Console.Write("Nhập mã sinh viên : ");
-                sv.MaSV = Console.ReadLine(); 
+                sv.MaSV = Console.ReadLine();
 
                 // Kiểm tra mã sinh viên đã tồn tại chưa
                 foreach (SinhVien item in listSV)
@@ -48,7 +49,7 @@ namespace BTVN_Bai4
             Console.WriteLine("Thêm sinh viên thành công !");
         }
 
-        
+
 
         public void XuatDSSV()
         {
@@ -72,14 +73,14 @@ namespace BTVN_Bai4
 
             foreach (SinhVien item in listSV)
             {
-                if(item.MaSV == maSV)
+                if (item.MaSV == maSV)
                 {
                     svSua = item;
                     break;
                 }
             }
 
-            if(svSua != null)
+            if (svSua != null)
             {
 
                 // Cập nhật thông tin cho sinh viên đã tìm thấy
@@ -116,6 +117,57 @@ namespace BTVN_Bai4
             }
 
 
+        }
+
+        public void findLopHoc()
+        {
+            Console.Write("Nhập tên lớp học mà bạn muốn : ");
+            string findLop = Console.ReadLine();
+
+            Console.WriteLine($"Danh sách sinh viên thuộc lớp {findLop}");
+            bool found = false;
+            foreach (SinhVien item in listSV)
+            {
+                if (item.LopHoc == findLop)
+                {
+                    Console.WriteLine($"Mã SV : {item.MaSV} \nHọ tên : {item.HoTen}" +
+                    $" \nNăm sinh : {item.NamSinh} \nĐịa chỉ : {item.DiaChi} \nLớp học : {item.LopHoc}");
+
+                    Console.WriteLine("<------------------->");
+                    found = true;
+                }
+            }
+            if (!found)
+            {
+                Console.WriteLine($"Không có sinh viên nào trong lớp {findLop}");
+            }
+        }
+        public void XoaSV()
+        {
+            Console.Write("Nhập mã sinh viên cần xóa : ");
+            string maSV = Console.ReadLine();
+
+            SinhVien svXoa = null;
+
+            foreach (SinhVien item in listSV)
+            {
+                if(item.MaSV == maSV)
+                {
+                    svXoa = item;
+                    break;
+                }
+            }
+
+            if(svXoa != null)
+            {
+                listSV.Remove(svXoa);
+                Console.WriteLine("Xóa sinh viên thành công !");
+            }
+            else
+            {
+                Console.WriteLine("Không tìm thấy sinh viên đã nhập. ");
+                return;
+            }
         }
     }
 }

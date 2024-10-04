@@ -47,6 +47,12 @@ namespace BTVN_Bai4
                     case 3:
                         quanLySinhVien.SuaSinhVien();
                         break;
+                    case 4:
+                        quanLySinhVien.XoaSV();
+                        break;
+                    case 5:
+                        quanLySinhVien.findLopHoc();
+                        break;
                     case 0:
                         Environment.Exit(0);
                         break;
