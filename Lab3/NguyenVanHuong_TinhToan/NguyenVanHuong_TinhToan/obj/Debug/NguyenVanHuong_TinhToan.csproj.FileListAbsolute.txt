@@ -1,0 +1,10 @@
+D:\LT.Net\Lab3\NguyenVanHuong_TinhToan\NguyenVanHuong_TinhToan\bin\Debug\NguyenVanHuong_TinhToan.exe.config
+D:\LT.Net\Lab3\NguyenVanHuong_TinhToan\NguyenVanHuong_TinhToan\bin\Debug\NguyenVanHuong_TinhToan.exe
+D:\LT.Net\Lab3\NguyenVanHuong_TinhToan\NguyenVanHuong_TinhToan\bin\Debug\NguyenVanHuong_TinhToan.pdb
+D:\LT.Net\Lab3\NguyenVanHuong_TinhToan\NguyenVanHuong_TinhToan\obj\Debug\NguyenVanHuong_TinhToan.csproj.AssemblyReference.cache
+D:\LT.Net\Lab3\NguyenVanHuong_TinhToan\NguyenVanHuong_TinhToan\obj\Debug\NguyenVanHuong_TinhToan.Form1.resources
+D:\LT.Net\Lab3\NguyenVanHuong_TinhToan\NguyenVanHuong_TinhToan\obj\Debug\NguyenVanHuong_TinhToan.Properties.Resources.resources
+D:\LT.Net\Lab3\NguyenVanHuong_TinhToan\NguyenVanHuong_TinhToan\obj\Debug\NguyenVanHuong_TinhToan.csproj.GenerateResource.cache
+D:\LT.Net\Lab3\NguyenVanHuong_TinhToan\NguyenVanHuong_TinhToan\obj\Debug\NguyenVanHuong_TinhToan.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab3\NguyenVanHuong_TinhToan\NguyenVanHuong_TinhToan\obj\Debug\NguyenVanHuong_TinhToan.exe
+D:\LT.Net\Lab3\NguyenVanHuong_TinhToan\NguyenVanHuong_TinhToan\obj\Debug\NguyenVanHuong_TinhToan.pdb

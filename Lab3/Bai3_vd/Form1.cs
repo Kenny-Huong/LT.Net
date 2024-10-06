@@ -17,44 +17,67 @@ namespace Bai3_vd
             InitializeComponent();
         }
 
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void Form1_Load(object sender, EventArgs e)
         {
+            // Căn giữa nội dung form khi form được tải
+            CenterToScreen();
+
+            // Vô hiệu hóa các trường ban đầu
             txtCanh1.Enabled = false;
             txtCanh2.Enabled = false;
             txtCanh3.Enabled = false;
             groupBox2.Enabled = false;
             lbKQ.Visible = false;
+
+            // Sử dụng TableLayoutPanel để căn giữa các điều khiển
+            TableLayoutPanel tableLayoutPanel = new TableLayoutPanel();
+            tableLayoutPanel.Dock = DockStyle.Fill;
+            tableLayoutPanel.RowCount = 3;
+            tableLayoutPanel.ColumnCount = 3;
+
+            // Thêm kích thước dòng và cột với tỷ lệ 33% để căn giữa
+            tableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 33));
+            tableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 33));
+            tableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 33));
+            tableLayoutPanel.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33));
+            tableLayoutPanel.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33));
+            tableLayoutPanel.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33));
+
+            // Đặt các điều khiển vào vị trí giữa
+            tableLayoutPanel.Controls.Add(txtCanh1, 1, 1); // Giả sử txtCanh1 là một TextBox
+            tableLayoutPanel.Controls.Add(txtCanh2, 1, 2);
+            tableLayoutPanel.Controls.Add(txtCanh3, 1, 3);
+
+            // Thêm TableLayoutPanel vào form
+            this.Controls.Add(tableLayoutPanel);
         }
 
         private void btnNhap_Click(object sender, EventArgs e)
         {
-            txtCanh1.Enabled=true;
-            txtCanh2.Enabled=true;
-            txtCanh3.Enabled=true;
-            groupBox2.Enabled=true;
+            txtCanh1.Enabled = true;
+            txtCanh2.Enabled = true;
+            txtCanh3.Enabled = true;
+            groupBox2.Enabled = true;
             txtCanh1.Focus();
         }
 
         bool kiemTra(string s)
         {
-            if(string.IsNullOrWhiteSpace(s))
+            if (string.IsNullOrWhiteSpace(s))
                 return true;
             else return false;
         }
+
         bool kiemtra_dulieu()
         {
             double n;
-                if(kiemTra(txtCanh1.Text)||kiemTra(txtCanh2.Text)||kiemTra(txtCanh3.Text))  return false;
-                if(!double.TryParse(txtCanh1.Text, out n) || n < 0) return false;
-                if(!double.TryParse(txtCanh2.Text, out n) || n < 0) return false;
-                if(!double.TryParse(txtCanh3.Text, out n) || n < 0) return false;
+            if (kiemTra(txtCanh1.Text) || kiemTra(txtCanh2.Text) || kiemTra(txtCanh3.Text)) return false;
+            if (!double.TryParse(txtCanh1.Text, out n) || n < 0) return false;
+            if (!double.TryParse(txtCanh2.Text, out n) || n < 0) return false;
+            if (!double.TryParse(txtCanh3.Text, out n) || n < 0) return false;
             return true;
         }
+
         bool kiemTraTamGiac(double a, double b, double c)
         {
             if (a + b > c && a + c > b && b + c > a)
@@ -82,7 +105,7 @@ namespace Bai3_vd
                 if (kiemTraTamGiac(a, b, c))
                 {
                     double p = (a + b + c) / 2;
-                    lbKQ.Text = "Diện tích của tam giác : " + Math.Sqrt(p * (p - a) * (p - b) * (p - c)).ToString();
+                    lbKQ.Text = "Diện tích của tam giác : " + Math.Sqrt(p * (p - a) * (p - b) * (p - c)).ToString("F2");
                 }
                 else
                 {
@@ -109,8 +132,7 @@ namespace Bai3_vd
 
                 if (kiemTraTamGiac(a, b, c))
                 {
-                    double p = (a + b + c) / 2;
-                    lbKQ.Text = "Diện tích của tam giác : " + (a + b + c).ToString();
+                    lbKQ.Text = "Chu vi của tam giác : " + (a + b + c).ToString("F2");
                 }
                 else
                 {
@@ -134,7 +156,6 @@ namespace Bai3_vd
             txtCanh2.Clear();
             txtCanh3.Clear();
             lbKQ.Text = "";
-            
         }
     }
 }

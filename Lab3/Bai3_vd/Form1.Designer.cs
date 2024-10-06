@@ -30,19 +30,19 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.txtCanh1 = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.btnNhap = new System.Windows.Forms.Button();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.txtCanh3 = new System.Windows.Forms.TextBox();
-            this.txtCanh2 = new System.Windows.Forms.TextBox();
-            this.btnThoat = new System.Windows.Forms.Button();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.rdSTamGiac = new System.Windows.Forms.RadioButton();
-            this.rdCTamGiac = new System.Windows.Forms.RadioButton();
-            this.lbKQ = new System.Windows.Forms.Label();
             this.btnReset = new System.Windows.Forms.Button();
+            this.btnThoat = new System.Windows.Forms.Button();
+            this.btnNhap = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtCanh2 = new System.Windows.Forms.TextBox();
+            this.txtCanh3 = new System.Windows.Forms.TextBox();
+            this.txtCanh1 = new System.Windows.Forms.TextBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.rdCTamGiac = new System.Windows.Forms.RadioButton();
+            this.rdSTamGiac = new System.Windows.Forms.RadioButton();
+            this.lbKQ = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -74,23 +74,27 @@
             this.groupBox1.Size = new System.Drawing.Size(591, 184);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.groupBox1.Text = "Nhập dữ liệu";
             // 
-            // txtCanh1
+            // btnReset
             // 
-            this.txtCanh1.Location = new System.Drawing.Point(245, 42);
-            this.txtCanh1.Name = "txtCanh1";
-            this.txtCanh1.Size = new System.Drawing.Size(100, 29);
-            this.txtCanh1.TabIndex = 0;
+            this.btnReset.Location = new System.Drawing.Point(441, 81);
+            this.btnReset.Name = "btnReset";
+            this.btnReset.Size = new System.Drawing.Size(91, 37);
+            this.btnReset.TabIndex = 3;
+            this.btnReset.Text = "Reset";
+            this.btnReset.UseVisualStyleBackColor = true;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
-            // label2
+            // btnThoat
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(37, 41);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(175, 24);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Nhập cạnh thứ nhất";
+            this.btnThoat.Location = new System.Drawing.Point(441, 133);
+            this.btnThoat.Name = "btnThoat";
+            this.btnThoat.Size = new System.Drawing.Size(91, 36);
+            this.btnThoat.TabIndex = 2;
+            this.btnThoat.Text = "Thoát";
+            this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
             // btnNhap
             // 
@@ -102,6 +106,15 @@
             this.btnNhap.UseVisualStyleBackColor = true;
             this.btnNhap.Click += new System.EventHandler(this.btnNhap_Click);
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(37, 120);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(149, 24);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "Nhập cạnh thứ 3";
+            // 
             // label3
             // 
             this.label3.AutoSize = true;
@@ -111,22 +124,14 @@
             this.label3.TabIndex = 1;
             this.label3.Text = "Nhập cạnh thứ 2";
             // 
-            // label4
+            // label2
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(37, 120);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(127, 24);
-            this.label4.TabIndex = 1;
-            this.label4.Text = "Nhập số thứ 3";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
-            // 
-            // txtCanh3
-            // 
-            this.txtCanh3.Location = new System.Drawing.Point(245, 120);
-            this.txtCanh3.Name = "txtCanh3";
-            this.txtCanh3.Size = new System.Drawing.Size(100, 29);
-            this.txtCanh3.TabIndex = 0;
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(37, 41);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(175, 24);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Nhập cạnh thứ nhất";
             // 
             // txtCanh2
             // 
@@ -135,15 +140,19 @@
             this.txtCanh2.Size = new System.Drawing.Size(100, 29);
             this.txtCanh2.TabIndex = 0;
             // 
-            // btnThoat
+            // txtCanh3
             // 
-            this.btnThoat.Location = new System.Drawing.Point(441, 133);
-            this.btnThoat.Name = "btnThoat";
-            this.btnThoat.Size = new System.Drawing.Size(91, 36);
-            this.btnThoat.TabIndex = 2;
-            this.btnThoat.Text = "Thoát";
-            this.btnThoat.UseVisualStyleBackColor = true;
-            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
+            this.txtCanh3.Location = new System.Drawing.Point(245, 120);
+            this.txtCanh3.Name = "txtCanh3";
+            this.txtCanh3.Size = new System.Drawing.Size(100, 29);
+            this.txtCanh3.TabIndex = 0;
+            // 
+            // txtCanh1
+            // 
+            this.txtCanh1.Location = new System.Drawing.Point(245, 42);
+            this.txtCanh1.Name = "txtCanh1";
+            this.txtCanh1.Size = new System.Drawing.Size(100, 29);
+            this.txtCanh1.TabIndex = 0;
             // 
             // groupBox2
             // 
@@ -157,18 +166,6 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Tính";
             // 
-            // rdSTamGiac
-            // 
-            this.rdSTamGiac.AutoSize = true;
-            this.rdSTamGiac.Location = new System.Drawing.Point(79, 39);
-            this.rdSTamGiac.Name = "rdSTamGiac";
-            this.rdSTamGiac.Size = new System.Drawing.Size(176, 28);
-            this.rdSTamGiac.TabIndex = 0;
-            this.rdSTamGiac.TabStop = true;
-            this.rdSTamGiac.Text = "Diện tích tam giác";
-            this.rdSTamGiac.UseVisualStyleBackColor = true;
-            this.rdSTamGiac.CheckedChanged += new System.EventHandler(this.rdSTamGiac_CheckedChanged);
-            // 
             // rdCTamGiac
             // 
             this.rdCTamGiac.AutoSize = true;
@@ -181,6 +178,18 @@
             this.rdCTamGiac.UseVisualStyleBackColor = true;
             this.rdCTamGiac.CheckedChanged += new System.EventHandler(this.rdCTamGiac_CheckedChanged);
             // 
+            // rdSTamGiac
+            // 
+            this.rdSTamGiac.AutoSize = true;
+            this.rdSTamGiac.Location = new System.Drawing.Point(79, 39);
+            this.rdSTamGiac.Name = "rdSTamGiac";
+            this.rdSTamGiac.Size = new System.Drawing.Size(176, 28);
+            this.rdSTamGiac.TabIndex = 0;
+            this.rdSTamGiac.TabStop = true;
+            this.rdSTamGiac.Text = "Diện tích tam giác";
+            this.rdSTamGiac.UseVisualStyleBackColor = true;
+            this.rdSTamGiac.CheckedChanged += new System.EventHandler(this.rdSTamGiac_CheckedChanged);
+            // 
             // lbKQ
             // 
             this.lbKQ.AutoSize = true;
@@ -190,16 +199,6 @@
             this.lbKQ.Size = new System.Drawing.Size(93, 24);
             this.lbKQ.TabIndex = 1;
             this.lbKQ.Text = "Kết Qủa : ";
-            // 
-            // btnReset
-            // 
-            this.btnReset.Location = new System.Drawing.Point(441, 81);
-            this.btnReset.Name = "btnReset";
-            this.btnReset.Size = new System.Drawing.Size(91, 37);
-            this.btnReset.TabIndex = 3;
-            this.btnReset.Text = "Reset";
-            this.btnReset.UseVisualStyleBackColor = true;
-            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // Form1
             // 

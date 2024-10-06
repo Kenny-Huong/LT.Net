@@ -31,9 +31,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.txtN = new System.Windows.Forms.TextBox();
-            this.rd1 = new System.Windows.Forms.RadioButton();
             this.rd2 = new System.Windows.Forms.RadioButton();
+            this.rd1 = new System.Windows.Forms.RadioButton();
+            this.txtN = new System.Windows.Forms.TextBox();
             this.lqKQ = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -70,14 +70,17 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Lựa chọn";
             // 
-            // txtN
+            // rd2
             // 
-            this.txtN.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtN.Location = new System.Drawing.Point(161, 60);
-            this.txtN.Name = "txtN";
-            this.txtN.Size = new System.Drawing.Size(100, 29);
-            this.txtN.TabIndex = 2;
-            this.txtN.TextChanged += new System.EventHandler(this.txtN_TextChanged);
+            this.rd2.AutoSize = true;
+            this.rd2.Location = new System.Drawing.Point(6, 67);
+            this.rd2.Name = "rd2";
+            this.rd2.Size = new System.Drawing.Size(283, 28);
+            this.rd2.TabIndex = 0;
+            this.rd2.TabStop = true;
+            this.rd2.Text = "Tính tổng 1 + 1/1 + 1/2 + ..+1/n";
+            this.rd2.UseVisualStyleBackColor = true;
+            this.rd2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // rd1
             // 
@@ -91,17 +94,14 @@
             this.rd1.UseVisualStyleBackColor = true;
             this.rd1.CheckedChanged += new System.EventHandler(this.rd1_CheckedChanged);
             // 
-            // rd2
+            // txtN
             // 
-            this.rd2.AutoSize = true;
-            this.rd2.Location = new System.Drawing.Point(6, 67);
-            this.rd2.Name = "rd2";
-            this.rd2.Size = new System.Drawing.Size(283, 28);
-            this.rd2.TabIndex = 0;
-            this.rd2.TabStop = true;
-            this.rd2.Text = "Tính tổng 1 + 1/1 + 1/2 + ..+1/n";
-            this.rd2.UseVisualStyleBackColor = true;
-            this.rd2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
+            this.txtN.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtN.Location = new System.Drawing.Point(161, 60);
+            this.txtN.Name = "txtN";
+            this.txtN.Size = new System.Drawing.Size(100, 29);
+            this.txtN.TabIndex = 2;
+            this.txtN.TextChanged += new System.EventHandler(this.txtN_TextChanged);
             // 
             // lqKQ
             // 
@@ -124,8 +124,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.Resize += new System.EventHandler(this.Form1_Resize);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

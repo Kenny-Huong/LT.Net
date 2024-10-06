@@ -84,5 +84,10 @@ namespace Bai4_vd
                 txtN.Focus();
             }
         }
+
+        private void Form1_Resize(object sender, EventArgs e)
+        {
+
+        }
     }
 }
