@@ -31,16 +31,16 @@
             this.label1 = new System.Windows.Forms.Label();
             this.btnTang2 = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.txtN = new System.Windows.Forms.TextBox();
-            this.grChucNang = new System.Windows.Forms.GroupBox();
-            this.btnCapNhat = new System.Windows.Forms.Button();
-            this.btnChanDau = new System.Windows.Forms.Button();
-            this.btnLeCuoi = new System.Windows.Forms.Button();
-            this.btnXoaItem = new System.Windows.Forms.Button();
-            this.btnXoaDau = new System.Windows.Forms.Button();
-            this.btnXoaCuoi = new System.Windows.Forms.Button();
-            this.btnKetThuc = new System.Windows.Forms.Button();
             this.listNumber = new System.Windows.Forms.ListBox();
+            this.btnKetThuc = new System.Windows.Forms.Button();
+            this.btnCapNhat = new System.Windows.Forms.Button();
+            this.grChucNang = new System.Windows.Forms.GroupBox();
+            this.btnXoaCuoi = new System.Windows.Forms.Button();
+            this.btnXoaItem = new System.Windows.Forms.Button();
+            this.btnChanDau = new System.Windows.Forms.Button();
+            this.btnXoaDau = new System.Windows.Forms.Button();
+            this.btnLeCuoi = new System.Windows.Forms.Button();
+            this.txtN = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.grChucNang.SuspendLayout();
             this.SuspendLayout();
@@ -60,7 +60,7 @@
             this.btnTang2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTang2.Location = new System.Drawing.Point(35, 45);
             this.btnTang2.Name = "btnTang2";
-            this.btnTang2.Size = new System.Drawing.Size(240, 31);
+            this.btnTang2.Size = new System.Drawing.Size(262, 31);
             this.btnTang2.TabIndex = 2;
             this.btnTang2.Text = "Tăng mỗi phần tử lên 2";
             this.btnTang2.UseVisualStyleBackColor = true;
@@ -77,18 +77,38 @@
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(-18, -10);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(716, 447);
+            this.panel1.Size = new System.Drawing.Size(738, 447);
             this.panel1.TabIndex = 3;
             // 
-            // txtN
+            // listNumber
             // 
-            this.txtN.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtN.Location = new System.Drawing.Point(218, 30);
-            this.txtN.Name = "txtN";
-            this.txtN.Size = new System.Drawing.Size(260, 31);
-            this.txtN.TabIndex = 1;
-            this.txtN.TextChanged += new System.EventHandler(this.txtN_TextChanged);
-            this.txtN.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtN_KeyPress);
+            this.listNumber.FormattingEnabled = true;
+            this.listNumber.Location = new System.Drawing.Point(30, 86);
+            this.listNumber.Name = "listNumber";
+            this.listNumber.Size = new System.Drawing.Size(300, 290);
+            this.listNumber.TabIndex = 4;
+            // 
+            // btnKetThuc
+            // 
+            this.btnKetThuc.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnKetThuc.Location = new System.Drawing.Point(30, 401);
+            this.btnKetThuc.Name = "btnKetThuc";
+            this.btnKetThuc.Size = new System.Drawing.Size(636, 31);
+            this.btnKetThuc.TabIndex = 2;
+            this.btnKetThuc.Text = "Kết thúc";
+            this.btnKetThuc.UseVisualStyleBackColor = true;
+            this.btnKetThuc.Click += new System.EventHandler(this.btnKetThuc_Click);
+            // 
+            // btnCapNhat
+            // 
+            this.btnCapNhat.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCapNhat.Location = new System.Drawing.Point(493, 30);
+            this.btnCapNhat.Name = "btnCapNhat";
+            this.btnCapNhat.Size = new System.Drawing.Size(115, 31);
+            this.btnCapNhat.TabIndex = 2;
+            this.btnCapNhat.Text = "Cập nhật";
+            this.btnCapNhat.UseVisualStyleBackColor = true;
+            this.btnCapNhat.Click += new System.EventHandler(this.btnCapNhat_Click);
             // 
             // grChucNang
             // 
@@ -105,85 +125,72 @@
             this.grChucNang.TabIndex = 3;
             this.grChucNang.TabStop = false;
             this.grChucNang.Text = "Chức Năng";
-            // 
-            // btnCapNhat
-            // 
-            this.btnCapNhat.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCapNhat.Location = new System.Drawing.Point(493, 30);
-            this.btnCapNhat.Name = "btnCapNhat";
-            this.btnCapNhat.Size = new System.Drawing.Size(115, 31);
-            this.btnCapNhat.TabIndex = 2;
-            this.btnCapNhat.Text = "Cập nhật";
-            this.btnCapNhat.UseVisualStyleBackColor = true;
-            this.btnCapNhat.Click += new System.EventHandler(this.btnCapNhat_Click);
-            // 
-            // btnChanDau
-            // 
-            this.btnChanDau.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnChanDau.Location = new System.Drawing.Point(35, 82);
-            this.btnChanDau.Name = "btnChanDau";
-            this.btnChanDau.Size = new System.Drawing.Size(240, 31);
-            this.btnChanDau.TabIndex = 2;
-            this.btnChanDau.Text = "Chọn số chẵn đầu";
-            this.btnChanDau.UseVisualStyleBackColor = true;
-            // 
-            // btnLeCuoi
-            // 
-            this.btnLeCuoi.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLeCuoi.Location = new System.Drawing.Point(35, 119);
-            this.btnLeCuoi.Name = "btnLeCuoi";
-            this.btnLeCuoi.Size = new System.Drawing.Size(240, 31);
-            this.btnLeCuoi.TabIndex = 2;
-            this.btnLeCuoi.Text = "Chọn số lẻ cuối";
-            this.btnLeCuoi.UseVisualStyleBackColor = true;
-            // 
-            // btnXoaItem
-            // 
-            this.btnXoaItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnXoaItem.Location = new System.Drawing.Point(35, 156);
-            this.btnXoaItem.Name = "btnXoaItem";
-            this.btnXoaItem.Size = new System.Drawing.Size(240, 31);
-            this.btnXoaItem.TabIndex = 2;
-            this.btnXoaItem.Text = "Xóa phần tử đang chọn";
-            this.btnXoaItem.UseVisualStyleBackColor = true;
-            // 
-            // btnXoaDau
-            // 
-            this.btnXoaDau.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnXoaDau.Location = new System.Drawing.Point(35, 193);
-            this.btnXoaDau.Name = "btnXoaDau";
-            this.btnXoaDau.Size = new System.Drawing.Size(240, 31);
-            this.btnXoaDau.TabIndex = 2;
-            this.btnXoaDau.Text = "Xóa phần tử đầu";
-            this.btnXoaDau.UseVisualStyleBackColor = true;
+            this.grChucNang.Enter += new System.EventHandler(this.grChucNang_Enter);
             // 
             // btnXoaCuoi
             // 
             this.btnXoaCuoi.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXoaCuoi.Location = new System.Drawing.Point(35, 230);
             this.btnXoaCuoi.Name = "btnXoaCuoi";
-            this.btnXoaCuoi.Size = new System.Drawing.Size(240, 31);
+            this.btnXoaCuoi.Size = new System.Drawing.Size(262, 31);
             this.btnXoaCuoi.TabIndex = 2;
             this.btnXoaCuoi.Text = "Xóa phần tử cuối";
             this.btnXoaCuoi.UseVisualStyleBackColor = true;
+            this.btnXoaCuoi.Click += new System.EventHandler(this.btnXoaCuoi_Click);
             // 
-            // btnKetThuc
+            // btnXoaItem
             // 
-            this.btnKetThuc.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnKetThuc.Location = new System.Drawing.Point(30, 401);
-            this.btnKetThuc.Name = "btnKetThuc";
-            this.btnKetThuc.Size = new System.Drawing.Size(636, 31);
-            this.btnKetThuc.TabIndex = 2;
-            this.btnKetThuc.Text = "Kết thúc";
-            this.btnKetThuc.UseVisualStyleBackColor = true;
+            this.btnXoaItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnXoaItem.Location = new System.Drawing.Point(35, 156);
+            this.btnXoaItem.Name = "btnXoaItem";
+            this.btnXoaItem.Size = new System.Drawing.Size(263, 31);
+            this.btnXoaItem.TabIndex = 2;
+            this.btnXoaItem.Text = "Xóa phần tử đang chọn";
+            this.btnXoaItem.UseVisualStyleBackColor = true;
+            this.btnXoaItem.Click += new System.EventHandler(this.btnXoaItem_Click);
             // 
-            // listNumber
+            // btnChanDau
             // 
-            this.listNumber.FormattingEnabled = true;
-            this.listNumber.Location = new System.Drawing.Point(30, 86);
-            this.listNumber.Name = "listNumber";
-            this.listNumber.Size = new System.Drawing.Size(300, 290);
-            this.listNumber.TabIndex = 4;
+            this.btnChanDau.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnChanDau.Location = new System.Drawing.Point(35, 82);
+            this.btnChanDau.Name = "btnChanDau";
+            this.btnChanDau.Size = new System.Drawing.Size(262, 31);
+            this.btnChanDau.TabIndex = 2;
+            this.btnChanDau.Text = "Chọn số chẵn đầu";
+            this.btnChanDau.UseVisualStyleBackColor = true;
+            this.btnChanDau.Click += new System.EventHandler(this.btnChanDau_Click);
+            // 
+            // btnXoaDau
+            // 
+            this.btnXoaDau.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnXoaDau.Location = new System.Drawing.Point(35, 193);
+            this.btnXoaDau.Name = "btnXoaDau";
+            this.btnXoaDau.Size = new System.Drawing.Size(262, 31);
+            this.btnXoaDau.TabIndex = 2;
+            this.btnXoaDau.Text = "Xóa phần tử đầu";
+            this.btnXoaDau.UseVisualStyleBackColor = true;
+            this.btnXoaDau.Click += new System.EventHandler(this.btnXoaDau_Click);
+            // 
+            // btnLeCuoi
+            // 
+            this.btnLeCuoi.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLeCuoi.Location = new System.Drawing.Point(35, 119);
+            this.btnLeCuoi.Name = "btnLeCuoi";
+            this.btnLeCuoi.Size = new System.Drawing.Size(262, 31);
+            this.btnLeCuoi.TabIndex = 2;
+            this.btnLeCuoi.Text = "Chọn số lẻ cuối";
+            this.btnLeCuoi.UseVisualStyleBackColor = true;
+            this.btnLeCuoi.Click += new System.EventHandler(this.btnLeCuoi_Click);
+            // 
+            // txtN
+            // 
+            this.txtN.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtN.Location = new System.Drawing.Point(218, 30);
+            this.txtN.Name = "txtN";
+            this.txtN.Size = new System.Drawing.Size(260, 31);
+            this.txtN.TabIndex = 1;
+            this.txtN.TextChanged += new System.EventHandler(this.txtN_TextChanged);
+            this.txtN.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtN_KeyPress);
             // 
             // Form1
             // 
@@ -192,6 +199,7 @@
             this.ClientSize = new System.Drawing.Size(697, 434);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
