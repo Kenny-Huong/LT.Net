@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LT.Net\\Lab5\\Lab5_Bai1_vd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6833EDFB-A5EF-4582-AE85-F4C962DDA701}|..\\Lab5_BTVN_Bai5\\Lab5_BTVN_Bai5.csproj|d:\\lt.net\\lab5\\lab5_btvn_bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6833EDFB-A5EF-4582-AE85-F4C962DDA701}|..\\Lab5_BTVN_Bai5\\Lab5_BTVN_Bai5.csproj|d:\\lt.net\\lab5\\lab5_btvn_bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A7EDBA-E33E-4A0F-8136-4C451B97C0C5}|..\\Lab5_BTVN_Bai4\\Lab5_BTVN_Bai4.csproj|d:\\lt.net\\lab5\\lab5_btvn_bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A7EDBA-E33E-4A0F-8136-4C451B97C0C5}|..\\Lab5_BTVN_Bai4\\Lab5_BTVN_Bai4.csproj|d:\\lt.net\\lab5\\lab5_btvn_bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9518519D-D380-4CAA-8607-B06899C8DF12}|..\\Lab5_BTVN_Bai3\\Lab5_BTVN_Bai3.csproj|d:\\lt.net\\lab5\\lab5_btvn_bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9518519D-D380-4CAA-8607-B06899C8DF12}|..\\Lab5_BTVN_Bai3\\Lab5_BTVN_Bai3.csproj|d:\\lt.net\\lab5\\lab5_btvn_bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF346E4-26BD-45E0-8BF4-F4C4D0CF05B8}|..\\Lab5_BTVN_Bai2\\Lab5_BTVN_Bai2.csproj|d:\\lt.net\\lab5\\lab5_btvn_bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF346E4-26BD-45E0-8BF4-F4C4D0CF05B8}|..\\Lab5_BTVN_Bai2\\Lab5_BTVN_Bai2.csproj|d:\\lt.net\\lab5\\lab5_btvn_bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai5\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_BTVN_Bai5\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai5\\Form1.cs",
+              "RelativeToolTip": "..\\Lab5_BTVN_Bai5\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAASwDQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:48:21.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai5\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_BTVN_Bai5\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai5\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Lab5_BTVN_Bai5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:34:29.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_BTVN_Bai4\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai4\\Form1.cs",
+              "RelativeToolTip": "..\\Lab5_BTVN_Bai4\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:00:43.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_BTVN_Bai4\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai4\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Lab5_BTVN_Bai4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:58:25.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_BTVN_Bai3\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai3\\Form1.cs",
+              "RelativeToolTip": "..\\Lab5_BTVN_Bai3\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:04:46.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_BTVN_Bai3\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Lab5_BTVN_Bai3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:46:17.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_BTVN_Bai2\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai2\\Form1.cs",
+              "RelativeToolTip": "..\\Lab5_BTVN_Bai2\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:09:04.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_BTVN_Bai2\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab5\\Lab5_BTVN_Bai2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Lab5_BTVN_Bai2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:34:04.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
