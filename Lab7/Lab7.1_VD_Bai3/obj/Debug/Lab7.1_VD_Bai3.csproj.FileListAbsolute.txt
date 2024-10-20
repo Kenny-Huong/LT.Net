@@ -1,0 +1,7 @@
+D:\LT.Net\Lab7\Lab7.1_VD_Bai3\bin\Debug\Lab7.1_VD_Bai3.exe.config
+D:\LT.Net\Lab7\Lab7.1_VD_Bai3\bin\Debug\Lab7.1_VD_Bai3.exe
+D:\LT.Net\Lab7\Lab7.1_VD_Bai3\bin\Debug\Lab7.1_VD_Bai3.pdb
+D:\LT.Net\Lab7\Lab7.1_VD_Bai3\obj\Debug\Lab7.1_VD_Bai3.csproj.AssemblyReference.cache
+D:\LT.Net\Lab7\Lab7.1_VD_Bai3\obj\Debug\Lab7.1_VD_Bai3.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab7\Lab7.1_VD_Bai3\obj\Debug\Lab7.1_VD_Bai3.exe
+D:\LT.Net\Lab7\Lab7.1_VD_Bai3\obj\Debug\Lab7.1_VD_Bai3.pdb

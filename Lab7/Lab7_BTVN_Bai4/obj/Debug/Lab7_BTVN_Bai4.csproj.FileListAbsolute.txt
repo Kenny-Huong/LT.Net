@@ -1,0 +1,7 @@
+D:\LT.Net\Lab7\Lab7_BTVN_Bai4\bin\Debug\Lab7_BTVN_Bai4.exe.config
+D:\LT.Net\Lab7\Lab7_BTVN_Bai4\bin\Debug\Lab7_BTVN_Bai4.exe
+D:\LT.Net\Lab7\Lab7_BTVN_Bai4\bin\Debug\Lab7_BTVN_Bai4.pdb
+D:\LT.Net\Lab7\Lab7_BTVN_Bai4\obj\Debug\Lab7_BTVN_Bai4.csproj.AssemblyReference.cache
+D:\LT.Net\Lab7\Lab7_BTVN_Bai4\obj\Debug\Lab7_BTVN_Bai4.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab7\Lab7_BTVN_Bai4\obj\Debug\Lab7_BTVN_Bai4.exe
+D:\LT.Net\Lab7\Lab7_BTVN_Bai4\obj\Debug\Lab7_BTVN_Bai4.pdb

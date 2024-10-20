@@ -1,0 +1,15 @@
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\obj\Debug\Lab6_Bai1_vd.csproj.AssemblyReference.cache
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\obj\Debug\Interop.WMPLib.dll
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\obj\Debug\AxInterop.WMPLib.dll
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\obj\Debug\Lab6_Bai1_vd.csproj.ResolveComReference.cache
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\obj\Debug\Lab6_Bai1_vd.Form1.resources
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\obj\Debug\Lab6_Bai1_vd.Properties.Resources.resources
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\obj\Debug\Lab6_Bai1_vd.csproj.GenerateResource.cache
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\obj\Debug\Lab6_Bai1_vd.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\bin\Debug\Lab6_Bai1_vd.exe.config
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\bin\Debug\Lab6_Bai1_vd.exe
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\bin\Debug\Lab6_Bai1_vd.pdb
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\bin\Debug\Interop.WMPLib.dll
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\bin\Debug\AxInterop.WMPLib.dll
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\obj\Debug\Lab6_Bai1_vd.exe
+D:\LT.Net\Lab6\Lab6_Bai1_vd\Lab6_Bai1_vd\obj\Debug\Lab6_Bai1_vd.pdb

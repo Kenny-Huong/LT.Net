@@ -1,0 +1,10 @@
+D:\LT.Net\Lab6\Lab6_BTVN_Bai3\bin\Debug\Lab6_BTVN_Bai3.exe.config
+D:\LT.Net\Lab6\Lab6_BTVN_Bai3\bin\Debug\Lab6_BTVN_Bai3.exe
+D:\LT.Net\Lab6\Lab6_BTVN_Bai3\bin\Debug\Lab6_BTVN_Bai3.pdb
+D:\LT.Net\Lab6\Lab6_BTVN_Bai3\obj\Debug\Lab6_BTVN_Bai3.csproj.AssemblyReference.cache
+D:\LT.Net\Lab6\Lab6_BTVN_Bai3\obj\Debug\Lab6_BTVN_Bai3.Form1.resources
+D:\LT.Net\Lab6\Lab6_BTVN_Bai3\obj\Debug\Lab6_BTVN_Bai3.Properties.Resources.resources
+D:\LT.Net\Lab6\Lab6_BTVN_Bai3\obj\Debug\Lab6_BTVN_Bai3.csproj.GenerateResource.cache
+D:\LT.Net\Lab6\Lab6_BTVN_Bai3\obj\Debug\Lab6_BTVN_Bai3.csproj.CoreCompileInputs.cache
+D:\LT.Net\Lab6\Lab6_BTVN_Bai3\obj\Debug\Lab6_BTVN_Bai3.exe
+D:\LT.Net\Lab6\Lab6_BTVN_Bai3\obj\Debug\Lab6_BTVN_Bai3.pdb
