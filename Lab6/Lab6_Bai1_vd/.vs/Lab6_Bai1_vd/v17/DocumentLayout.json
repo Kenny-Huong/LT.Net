@@ -1,7 +1,14 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\LT.Net\\Lab6\\Lab6_Bai1_vd\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40CCBC0E-1C47-4ACF-9D7F-C6A660C148EB}|..\\Lab6_BTVN_Bai2\\Lab6_BTVN_Bai2.csproj|d:\\lt.net\\lab6\\lab6_btvn_bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E88894-65F8-4987-A053-05575525AF53}|..\\Lab6_BTVN_Bai3\\Lab6_BTVN_Bai3.csproj|d:\\lt.net\\lab6\\lab6_btvn_bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +16,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab6\\Lab6_BTVN_Bai2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Lab6_BTVN_Bai2\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab6\\Lab6_BTVN_Bai2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Lab6_BTVN_Bai2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:47:24.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab6\\Lab6_BTVN_Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Lab6_BTVN_Bai3\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab6\\Lab6_BTVN_Bai3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Lab6_BTVN_Bai3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:47:20.888Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
