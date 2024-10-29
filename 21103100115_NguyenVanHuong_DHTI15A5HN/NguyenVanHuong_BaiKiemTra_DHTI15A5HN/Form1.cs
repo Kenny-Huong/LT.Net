@@ -146,11 +146,8 @@ namespace NguyenVanHuong_BaiKiemTra_DHTI15A5HN
                                   $"Chức vụ: {row.Cells[5].Value}\n" +
                                   $"Hợp đồng: {row.Cells[6].Value}\n" +
                                   $"Địa chỉ: {row.Cells[7].Value}\n";
-                                 
-
             richTextBox1.Text = employeeInfo;
 
-            
             string imgUrl = row.Cells[8].Value?.ToString();
             if (!string.IsNullOrEmpty(imgUrl))
             {
