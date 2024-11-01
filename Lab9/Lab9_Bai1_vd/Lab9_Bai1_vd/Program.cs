@@ -17,7 +17,8 @@ namespace Lab9_Bai1_vd
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new FrmKhachHang());
-            Application.Run(new Form2());
+            //Application.Run(new Form2());
+            Application.Run(new FrmBanHang());
         }
     }
 }

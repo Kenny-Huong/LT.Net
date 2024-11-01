@@ -22,6 +22,8 @@ namespace Lab9_Bai1_vd.DomainClass
         public int? SoLuong { get; set; }
         public double? DonGia { get; set; }
 
+       
+
         [ForeignKey(nameof(MaMh))]
         [InverseProperty(nameof(TblMatHang.TblChiTietBanHang))]
         public virtual TblMatHang MaMhNavigation { get; set; }

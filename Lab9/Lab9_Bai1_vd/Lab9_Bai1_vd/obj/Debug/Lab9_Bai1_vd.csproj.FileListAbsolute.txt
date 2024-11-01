@@ -90,3 +90,4 @@ D:\LT.Net\Lab9\Lab9_Bai1_vd\Lab9_Bai1_vd\bin\Debug\zh-Hans\Microsoft.Data.SqlCli
 D:\LT.Net\Lab9\Lab9_Bai1_vd\Lab9_Bai1_vd\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 D:\LT.Net\Lab9\Lab9_Bai1_vd\Lab9_Bai1_vd\obj\Debug\Lab9_Bai1_vd.Form2.resources
 D:\LT.Net\Lab9\Lab9_Bai1_vd\Lab9_Bai1_vd\obj\Debug\Lab9_Bai.A3B7176D.Up2Date
+D:\LT.Net\Lab9\Lab9_Bai1_vd\Lab9_Bai1_vd\obj\Debug\Lab9_Bai1_vd.FrmBanHang.resources
