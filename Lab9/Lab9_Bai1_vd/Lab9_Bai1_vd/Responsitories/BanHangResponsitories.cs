@@ -30,9 +30,21 @@ namespace Lab9_Bai1_vd.Responsitories
 
             try
             {
-                _context.TblBanHang.Add(banHang);
-                _context.SaveChanges(); 
+                // vì một hóa đơn có thể mua được nhiều mặt hàng
+                //nên kiểm tra hóa đơn đã được tạo hay chưa
+                if (_context.TblBanHang.FirstOrDefault(e => e.SoHieuHd == banHang.SoHieuHd)==null) 
+                {
+                    _context.TblBanHang.Add(banHang);
+                    _context.SaveChanges();
+                }
+                //nếu tạo rồi thì bỏ qua không phải tạo mới cho bảng tblBanHang nữa
+               
                 ctBanHang.SoHieuHd = banHang.SoHieuHd;
+                if(_context.TblChiTietBanHang.FirstOrDefault(e => e.SoHieuHd == banHang.SoHieuHd && e.MaMh == ctBanHang.MaMh) != null)
+                {
+                    MessageBox.Show("Vui lòng cập nhập số lượng mặt hàng muốn mua trong hóa đơn!");
+                    return false;
+                }        
                 _context.TblChiTietBanHang.Add(ctBanHang);
                 _context.SaveChanges();
                 return true;
@@ -44,5 +56,16 @@ namespace Lab9_Bai1_vd.Responsitories
                 return false;
             }
         }
+        public List<TblChiTietBanHang> ListMatHang(int SoHieuHoaDon)
+        {
+            var lstMH = _context.TblChiTietBanHang.Where(e => e.SoHieuHd == SoHieuHoaDon).ToList();
+            if (lstMH.Count > 0)
+            {
+                return lstMH;
+            }
+            return null;
+        }
+
+       
     }
 }

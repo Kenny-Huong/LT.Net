@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\lab9_bai1_vd\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\responsitories\\banhangresponsitories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\responsitories\\banhangresponsitories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\responsitories\\khachhangresponsitories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\responsitories\\khachhangresponsitories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\domainclass\\tblchitietbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\domainclass\\tblchitietbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\domainclass\\tblbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\domainclass\\tblbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\lab9_bai1_vd\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\domainclass\\tblmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\lab9_bai1_vd\\responsitories\\khachhangresponsitories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\responsitories\\khachhangresponsitories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\lab9_bai1_vd\\domainclass\\tblmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\domainclass\\tblmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|d:\\lt.net\\lab9\\lab9_bai1_vd\\lab9_bai1_vd\\responsitories\\mathangresponsitories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\lab9_bai1_vd\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\lab9_bai1_vd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\lab9_bai1_vd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\lab9_bai1_vd\\domainclass\\tblchitietbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\domainclass\\tblchitietbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\lab9_bai1_vd\\responsitories\\mathangresponsitories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\responsitories\\mathangresponsitories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\lab9_bai1_vd\\domainclass\\tblbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A03BB31-7FC2-4BE6-AC81-BE4AED76ACC3}|Lab9_Bai1_vd\\Lab9_Bai1_vd.csproj|solutionrelative:lab9_bai1_vd\\domainclass\\tblbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,13 +66,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Form2.cs",
               "RelativeDocumentMoniker": "Lab9_Bai1_vd\\Form2.cs",
               "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Form2.cs",
               "RelativeToolTip": "Lab9_Bai1_vd\\Form2.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwC8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T11:45:32.306Z",
               "IsPinned": true,
@@ -77,19 +85,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TblBanHang.cs",
-              "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\DomainClass\\TblBanHang.cs",
-              "RelativeDocumentMoniker": "Lab9_Bai1_vd\\DomainClass\\TblBanHang.cs",
-              "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\DomainClass\\TblBanHang.cs",
-              "RelativeToolTip": "Lab9_Bai1_vd\\DomainClass\\TblBanHang.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Form2.cs",
+              "RelativeDocumentMoniker": "Lab9_Bai1_vd\\Form2.cs",
+              "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Form2.cs [Design]",
+              "RelativeToolTip": "Lab9_Bai1_vd\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T12:32:35.558Z",
+              "WhenOpened": "2024-11-01T14:32:57.891Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab9_Bai1_vd\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Form1.cs",
+              "RelativeToolTip": "Lab9_Bai1_vd\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:17:07.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Form1.cs",
               "RelativeDocumentMoniker": "Lab9_Bai1_vd\\Form1.cs",
@@ -101,20 +121,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "TblChiTietBanHang.cs",
               "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\DomainClass\\TblChiTietBanHang.cs",
               "RelativeDocumentMoniker": "Lab9_Bai1_vd\\DomainClass\\TblChiTietBanHang.cs",
               "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\DomainClass\\TblChiTietBanHang.cs",
               "RelativeToolTip": "Lab9_Bai1_vd\\DomainClass\\TblChiTietBanHang.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T12:02:02.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "FrmBanHang.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\FrmBanHang.cs",
+              "RelativeDocumentMoniker": "Lab9_Bai1_vd\\FrmBanHang.cs",
+              "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\FrmBanHang.cs [Design]",
+              "RelativeToolTip": "Lab9_Bai1_vd\\FrmBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:57:25.386Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TblMatHang.cs",
               "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\DomainClass\\TblMatHang.cs",
               "RelativeDocumentMoniker": "Lab9_Bai1_vd\\DomainClass\\TblMatHang.cs",
@@ -127,45 +159,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmBanHang.cs [Design]",
-              "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\FrmBanHang.cs",
-              "RelativeDocumentMoniker": "Lab9_Bai1_vd\\FrmBanHang.cs",
-              "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\FrmBanHang.cs [Design]",
-              "RelativeToolTip": "Lab9_Bai1_vd\\FrmBanHang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T11:57:25.386Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FrmBanHang.cs",
               "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\FrmBanHang.cs",
               "RelativeDocumentMoniker": "Lab9_Bai1_vd\\FrmBanHang.cs",
               "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\FrmBanHang.cs",
               "RelativeToolTip": "Lab9_Bai1_vd\\FrmBanHang.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwD8AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T11:44:54.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BanHangResponsitories.cs",
               "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Responsitories\\BanHangResponsitories.cs",
               "RelativeDocumentMoniker": "Lab9_Bai1_vd\\Responsitories\\BanHangResponsitories.cs",
-              "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Responsitories\\BanHangResponsitories.cs*",
-              "RelativeToolTip": "Lab9_Bai1_vd\\Responsitories\\BanHangResponsitories.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCAAAAAqAAAAAAAAAA==",
+              "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Responsitories\\BanHangResponsitories.cs",
+              "RelativeToolTip": "Lab9_Bai1_vd\\Responsitories\\BanHangResponsitories.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwEAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T11:44:01.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "KhachHangResponsitories.cs",
               "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Responsitories\\KhachHangResponsitories.cs",
               "RelativeDocumentMoniker": "Lab9_Bai1_vd\\Responsitories\\KhachHangResponsitories.cs",
@@ -178,29 +198,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Program.cs",
               "RelativeDocumentMoniker": "Lab9_Bai1_vd\\Program.cs",
               "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Program.cs",
               "RelativeToolTip": "Lab9_Bai1_vd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T12:30:32.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MatHangResponsitories.cs",
               "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Responsitories\\MatHangResponsitories.cs",
               "RelativeDocumentMoniker": "Lab9_Bai1_vd\\Responsitories\\MatHangResponsitories.cs",
               "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\Responsitories\\MatHangResponsitories.cs",
               "RelativeToolTip": "Lab9_Bai1_vd\\Responsitories\\MatHangResponsitories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T11:56:10.412Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TblBanHang.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\DomainClass\\TblBanHang.cs",
+              "RelativeDocumentMoniker": "Lab9_Bai1_vd\\DomainClass\\TblBanHang.cs",
+              "ToolTip": "D:\\LT.Net\\Lab9\\Lab9_Bai1_vd\\Lab9_Bai1_vd\\DomainClass\\TblBanHang.cs",
+              "RelativeToolTip": "Lab9_Bai1_vd\\DomainClass\\TblBanHang.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:32:35.558Z"
             }
           ]
         }

@@ -25,7 +25,7 @@ namespace Lab9_Bai1_vd
         private void FrmKhachHang_Load(object sender, EventArgs e)
         {
             comboBox1.Items.Add("Nam");
-            comboBox1.Items.Add("Nữ");
+            comboBox1.Items.Add("Nu");
         }
 
         public void LoadGidKH()
