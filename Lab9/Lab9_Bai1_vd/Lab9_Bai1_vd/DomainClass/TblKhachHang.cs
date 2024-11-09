@@ -31,6 +31,6 @@ namespace Lab9_Bai1_vd.DomainClass
         public string DienThoai { get; set; }
 
         [InverseProperty("MaKhNavigation")]
-        public virtual ICollection<TblBanHang> TblBanHang { get; set; }
+        public virtual ICollection<TblBanHang> TblBanHang { get; set; } // nó đang rỗng
     }
 }

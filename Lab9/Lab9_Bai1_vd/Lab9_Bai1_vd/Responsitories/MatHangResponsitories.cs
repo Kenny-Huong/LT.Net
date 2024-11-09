@@ -8,6 +8,7 @@ namespace Lab9_Bai1_vd.Responsitories
 {
     internal class MatHangResponsitories
     {
+        private DBContext dbContext = new DBContext();
         public bool AddMatHang(TblMatHang matHang)
         {
             if (matHang == null)
@@ -16,12 +17,11 @@ namespace Lab9_Bai1_vd.Responsitories
             }
 
             try
-            {
-                using (var dbContext = new DBContext())
-                {
+            {   
+                
                     dbContext.TblMatHang.Add(matHang);
                     dbContext.SaveChanges();
-                }
+                
                 return true;
             }
             catch (Exception)
@@ -33,10 +33,30 @@ namespace Lab9_Bai1_vd.Responsitories
 
         public List<TblMatHang> GetTblMatHangs()
         {
-            using (var dbContext = new DBContext())
+            
+                return dbContext.TblMatHang.ToList();
+            
+        }
+        public List<TblMatHang> GetMatHangByID(string txtNoiDung, string keyWord)
+        {
+            if (string.IsNullOrEmpty(txtNoiDung))
             {
                 return dbContext.TblMatHang.ToList();
             }
+            switch (keyWord)
+            {
+                case "MaMH":
+                    return dbContext.TblMatHang.Where(mh => mh.MaMh == txtNoiDung).ToList();
+                case "TenMH":
+                    return dbContext.TblMatHang.Where(mh => mh.TenMh == txtNoiDung).ToList();
+
+           
+
+                default:
+                    return dbContext.TblMatHang.ToList();
+
+            }
+
         }
 
         public bool DeleteMatHang(TblMatHang matHang)
@@ -48,11 +68,10 @@ namespace Lab9_Bai1_vd.Responsitories
 
             try
             {
-                using (var dbContext = new DBContext())
-                {
+               
                     dbContext.TblMatHang.Remove(matHang);
                     dbContext.SaveChanges();
-                }
+                
                 return true;
             }
             catch (Exception)
@@ -71,8 +90,7 @@ namespace Lab9_Bai1_vd.Responsitories
 
             try
             {
-                using (var dbContext = new DBContext())
-                {
+                
                     var existingMH = dbContext.TblMatHang.Find(matHang.MaMh);
                     if (existingMH == null)
                     {
@@ -84,7 +102,7 @@ namespace Lab9_Bai1_vd.Responsitories
                     existingMH.Dvt = matHang.Dvt;
 
                     dbContext.SaveChanges();
-                }
+                
                 return true;
             }
             catch (Exception)

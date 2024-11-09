@@ -26,7 +26,7 @@ namespace Lab9_Bai1_vd.DomainClass
 
         [ForeignKey(nameof(MaMh))]
         [InverseProperty(nameof(TblMatHang.TblChiTietBanHang))]
-        public virtual TblMatHang MaMhNavigation { get; set; }
+        public virtual TblMatHang MaMhNavigation { get; set; }// nó cũng rỗng --> include
         [ForeignKey(nameof(SoHieuHd))]
         [InverseProperty(nameof(TblBanHang.TblChiTietBanHang))]
         public virtual TblBanHang SoHieuHdNavigation { get; set; }

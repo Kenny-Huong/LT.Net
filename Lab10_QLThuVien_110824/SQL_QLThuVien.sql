@@ -1,0 +1,75 @@
+USE QLThuVien
+GO
+CREATE TABLE THAMSO (
+    TenThamSo NVARCHAR(50) PRIMARY KEY,
+    GiaTri INT
+);
+GO
+
+CREATE TABLE BANGCAP (
+    MaBangCap INT PRIMARY KEY,
+    TenBangCap NVARCHAR(100)
+);
+GO
+
+CREATE TABLE NHANVIEN (
+    MaNhanVien INT PRIMARY KEY,
+    HoTenNhanVien NVARCHAR(100),
+    NgaySinh DATE,
+    DiaChi NVARCHAR(255),
+    DienThoai NVARCHAR(20),
+    MaBangCap INT,
+    FOREIGN KEY (MaBangCap) REFERENCES BANGCAP(MaBangCap)
+);
+GO
+
+CREATE TABLE SACH (
+    MaSach INT PRIMARY KEY,
+    TenSach NVARCHAR(255),
+    TacGia NVARCHAR(100),
+    NamXuatBan INT,
+    NhaXuatBan NVARCHAR(100),
+    TriGia DECIMAL(18, 2),
+    NgayNhap DATE
+);
+GO
+
+CREATE TABLE DOCGIA (
+    MaDocGia INT PRIMARY KEY,
+    HoTenDocGia NVARCHAR(100),
+    NgaySinh DATE,
+    DiaChi NVARCHAR(255),
+    Email NVARCHAR(100),
+    NgayLapThe DATE,
+    NgayHetHan DATE,
+    TienNo DECIMAL(18, 2)
+);
+GO
+
+CREATE TABLE PHIEUMUONSACH (
+    MaPhieuMuon INT PRIMARY KEY,
+    NgayMuon DATE,
+    MaDocGia INT,
+    FOREIGN KEY (MaDocGia) REFERENCES DOCGIA(MaDocGia)
+);
+GO
+
+CREATE TABLE CHITIETPHIEUMUON (
+    MaSach INT,
+    MaPhieuMuon INT,
+    PRIMARY KEY (MaSach, MaPhieuMuon),
+    FOREIGN KEY (MaSach) REFERENCES SACH(MaSach),
+    FOREIGN KEY (MaPhieuMuon) REFERENCES PHIEUMUONSACH(MaPhieuMuon)
+);
+GO
+
+CREATE TABLE PHIEUTHUTIEN (
+    MaPhieuThuTien INT PRIMARY KEY,
+    SoTienThu DECIMAL(18, 2),
+    NgayThuTien DATE,
+    MaDocGia INT,
+    MaNhanVien INT,
+    FOREIGN KEY (MaDocGia) REFERENCES DOCGIA(MaDocGia),
+    FOREIGN KEY (MaNhanVien) REFERENCES NHANVIEN(MaNhanVien)
+);
+GO

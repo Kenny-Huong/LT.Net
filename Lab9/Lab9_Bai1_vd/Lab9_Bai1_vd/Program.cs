@@ -18,7 +18,10 @@ namespace Lab9_Bai1_vd
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new FrmKhachHang());
             //Application.Run(new Form2());
-            Application.Run(new FrmBanHang());
+            //Application.Run(new FrmBanHang());
+            //Application.Run(new FrTimKiemKH());
+            //Application.Run(new FrTimKiemMH());
+            Application.Run(new FrTimKiemKHMuaHang());
         }
     }
 }

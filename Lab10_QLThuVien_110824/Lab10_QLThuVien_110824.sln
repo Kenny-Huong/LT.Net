@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab10_QLThuVien_110824", "Lab10_QLThuVien_110824\Lab10_QLThuVien_110824.csproj", "{3C183DE1-1892-4BB5-97B0-234554D28768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab10_BTVN_Bai1", "..\Lab10\Lab10_BTVN_Bai1\Lab10_BTVN_Bai1.csproj", "{3A9049EA-BD66-4CBB-A4A6-E7D9017D512B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C183DE1-1892-4BB5-97B0-234554D28768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C183DE1-1892-4BB5-97B0-234554D28768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C183DE1-1892-4BB5-97B0-234554D28768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C183DE1-1892-4BB5-97B0-234554D28768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9049EA-BD66-4CBB-A4A6-E7D9017D512B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9049EA-BD66-4CBB-A4A6-E7D9017D512B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9049EA-BD66-4CBB-A4A6-E7D9017D512B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9049EA-BD66-4CBB-A4A6-E7D9017D512B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D78E859-1B64-4D09-96C3-6F122E9E8F6B}
+	EndGlobalSection
+EndGlobal

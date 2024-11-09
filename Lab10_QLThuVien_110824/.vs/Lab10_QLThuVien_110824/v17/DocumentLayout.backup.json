@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LT.Net\\Lab10_QLThuVien_110824\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C183DE1-1892-4BB5-97B0-234554D28768}|Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824.csproj|d:\\lt.net\\lab10_qlthuvien_110824\\lab10_qlthuvien_110824\\responsitories\\nhanvienrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C183DE1-1892-4BB5-97B0-234554D28768}|Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824.csproj|solutionrelative:lab10_qlthuvien_110824\\responsitories\\nhanvienrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C183DE1-1892-4BB5-97B0-234554D28768}|Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824.csproj|D:\\LT.Net\\Lab10_QLThuVien_110824\\lab10_qlthuvien_110824\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C183DE1-1892-4BB5-97B0-234554D28768}|Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824.csproj|solutionrelative:lab10_qlthuvien_110824\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9049EA-BD66-4CBB-A4A6-E7D9017D512B}|..\\Lab10\\Lab10_BTVN_Bai1\\Lab10_BTVN_Bai1.csproj|d:\\lt.net\\lab10\\lab10_btvn_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C183DE1-1892-4BB5-97B0-234554D28768}|Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824.csproj|D:\\LT.Net\\Lab10_QLThuVien_110824\\lab10_qlthuvien_110824\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C183DE1-1892-4BB5-97B0-234554D28768}|Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824.csproj|solutionrelative:lab10_qlthuvien_110824\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C183DE1-1892-4BB5-97B0-234554D28768}|Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824.csproj|D:\\LT.Net\\Lab10_QLThuVien_110824\\lab10_qlthuvien_110824\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C183DE1-1892-4BB5-97B0-234554D28768}|Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824.csproj|solutionrelative:lab10_qlthuvien_110824\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C183DE1-1892-4BB5-97B0-234554D28768}|Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824.csproj|D:\\LT.Net\\Lab10_QLThuVien_110824\\lab10_qlthuvien_110824\\domainclass\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C183DE1-1892-4BB5-97B0-234554D28768}|Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824.csproj|solutionrelative:lab10_qlthuvien_110824\\domainclass\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "Lab10_QLThuVien_110824\\Context\\DBContext.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824\\Context\\DBContext.cs",
+              "RelativeToolTip": "Lab10_QLThuVien_110824\\Context\\DBContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:23:53.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10\\Lab10_BTVN_Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Lab10\\Lab10_BTVN_Bai1\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10\\Lab10_BTVN_Bai1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Lab10\\Lab10_BTVN_Bai1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:40:54.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824\\DomainClass\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "Lab10_QLThuVien_110824\\DomainClass\\Nhanvien.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824\\DomainClass\\Nhanvien.cs",
+              "RelativeToolTip": "Lab10_QLThuVien_110824\\DomainClass\\Nhanvien.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:37:08.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVienRepos.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824\\Responsitories\\NhanVienRepos.cs",
+              "RelativeDocumentMoniker": "Lab10_QLThuVien_110824\\Responsitories\\NhanVienRepos.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824\\Responsitories\\NhanVienRepos.cs",
+              "RelativeToolTip": "Lab10_QLThuVien_110824\\Responsitories\\NhanVienRepos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:09:20.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab10_QLThuVien_110824\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824\\Form1.cs",
+              "RelativeToolTip": "Lab10_QLThuVien_110824\\Form1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAASwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:54:48.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab10_QLThuVien_110824\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10_QLThuVien_110824\\Lab10_QLThuVien_110824\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab10_QLThuVien_110824\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:49:01.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,6 +8,7 @@ namespace Lab9_Bai1_vd.Responsitories
 {
     internal class KhachHangResponsitories
     {
+        private DBContext dbContext = new DBContext();
         public bool AddKhachHang(TblKhachHang khachHang)
         {
             if (khachHang == null)
@@ -17,11 +18,10 @@ namespace Lab9_Bai1_vd.Responsitories
 
             try
             {
-                using (var dbContext = new DBContext())
-                {
+  
                     dbContext.TblKhachHang.Add(khachHang);
                     dbContext.SaveChanges();
-                }
+                
                 return true;
             }
             catch (Exception)
@@ -33,10 +33,31 @@ namespace Lab9_Bai1_vd.Responsitories
 
         public List<TblKhachHang> GetTblKhachHangs()
         {
-            using (var dbContext = new DBContext())
+           
+                return dbContext.TblKhachHang.ToList();
+            
+        }
+        public List<TblKhachHang> GetKhachHangById(string txtNoiDung, string keyWord)
+        {
+            if(string.IsNullOrEmpty(txtNoiDung))
             {
                 return dbContext.TblKhachHang.ToList();
             }
+           switch(keyWord)
+            {
+                case "MaKH":
+                    return dbContext.TblKhachHang.Where(kh => kh.MaKh == txtNoiDung).ToList();
+                case "TenKH":
+                    return dbContext.TblKhachHang.Where(kh => kh.Hoten == txtNoiDung).ToList();
+                                   
+                case "SoDT":
+                    return dbContext.TblKhachHang.Where(kh => kh.DienThoai == txtNoiDung).ToList();
+                
+                default:
+                    return dbContext.TblKhachHang.ToList();
+
+            }
+
         }
 
         public bool UpdateKhachHang(TblKhachHang khachHang)
@@ -48,8 +69,7 @@ namespace Lab9_Bai1_vd.Responsitories
 
             try
             {
-                using (var dbContext = new DBContext())
-                {
+                
                     var existingKH = dbContext.TblKhachHang.Find(khachHang.MaKh);
                     if (existingKH == null)
                     {
@@ -63,7 +83,7 @@ namespace Lab9_Bai1_vd.Responsitories
                     existingKH.DienThoai = khachHang.DienThoai;
 
                     dbContext.SaveChanges();
-                }
+                
                 return true;
             }
             catch (Exception)
@@ -82,8 +102,7 @@ namespace Lab9_Bai1_vd.Responsitories
 
             try
             {
-                using (var dbContext = new DBContext())
-                {
+               
                     var existingKH = dbContext.TblKhachHang.Find(khachHang.MaKh);
                     if (existingKH == null)
                     {
@@ -92,7 +111,7 @@ namespace Lab9_Bai1_vd.Responsitories
 
                     dbContext.TblKhachHang.Remove(existingKH);
                     dbContext.SaveChanges();
-                }
+           
                 return true;
             }
             catch (Exception)

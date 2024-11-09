@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7AF06B-9AA2-4B7E-86C2-02CE51E7C327}|Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3.csproj|d:\\lt.net\\lab10\\lad10_btvn_bai3\\lad10_btvn_bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7AF06B-9AA2-4B7E-86C2-02CE51E7C327}|Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3.csproj|solutionrelative:lad10_btvn_bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7AF06B-9AA2-4B7E-86C2-02CE51E7C327}|Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3.csproj|D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\lad10_btvn_bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE7AF06B-9AA2-4B7E-86C2-02CE51E7C327}|Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3.csproj|solutionrelative:lad10_btvn_bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7AF06B-9AA2-4B7E-86C2-02CE51E7C327}|Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3.csproj|D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\lad10_btvn_bai3\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7AF06B-9AA2-4B7E-86C2-02CE51E7C327}|Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3.csproj|solutionrelative:lad10_btvn_bai3\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7AF06B-9AA2-4B7E-86C2-02CE51E7C327}|Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3.csproj|D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\lad10_btvn_bai3\\respositories\\diemhsrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7AF06B-9AA2-4B7E-86C2-02CE51E7C327}|Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3.csproj|solutionrelative:lad10_btvn_bai3\\respositories\\diemhsrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiemHSRepos.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3\\Respositories\\DiemHSRepos.cs",
+              "RelativeDocumentMoniker": "Lad10_BTVN_Bai3\\Respositories\\DiemHSRepos.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3\\Respositories\\DiemHSRepos.cs",
+              "RelativeToolTip": "Lad10_BTVN_Bai3\\Respositories\\DiemHSRepos.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:58:07.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "Lad10_BTVN_Bai3\\Context\\DBContext.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3\\Context\\DBContext.cs",
+              "RelativeToolTip": "Lad10_BTVN_Bai3\\Context\\DBContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:57:36.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "Lad10_BTVN_Bai3\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3\\Form1.cs",
+              "RelativeToolTip": "Lad10_BTVN_Bai3\\Form1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwHkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:46:11.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "Lad10_BTVN_Bai3\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10\\Lad10_BTVN_Bai3\\Lad10_BTVN_Bai3\\Form1.cs [Design]",
+              "RelativeToolTip": "Lad10_BTVN_Bai3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:18:08.453Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

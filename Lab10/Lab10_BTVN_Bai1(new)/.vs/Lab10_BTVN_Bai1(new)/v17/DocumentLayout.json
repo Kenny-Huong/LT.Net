@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LT.Net\\Lab10\\Lab10_BTVN_Bai1(new)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBDFAD7-48B9-47FD-85F5-BC79A4C318D3}|Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new).csproj|d:\\lt.net\\lab10\\lab10_btvn_bai1(new)\\lab10_btvn_bai1(new)\\responsitories\\sinhvienrespo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBDFAD7-48B9-47FD-85F5-BC79A4C318D3}|Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new).csproj|solutionrelative:lab10_btvn_bai1(new)\\responsitories\\sinhvienrespo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBDFAD7-48B9-47FD-85F5-BC79A4C318D3}|Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new).csproj|d:\\lt.net\\lab10\\lab10_btvn_bai1(new)\\lab10_btvn_bai1(new)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DBDFAD7-48B9-47FD-85F5-BC79A4C318D3}|Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new).csproj|solutionrelative:lab10_btvn_bai1(new)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBDFAD7-48B9-47FD-85F5-BC79A4C318D3}|Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new).csproj|d:\\lt.net\\lab10\\lab10_btvn_bai1(new)\\lab10_btvn_bai1(new)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBDFAD7-48B9-47FD-85F5-BC79A4C318D3}|Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new).csproj|solutionrelative:lab10_btvn_bai1(new)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10\\Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new)\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab10_BTVN_Bai1(new)\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10\\Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new)\\Form1.cs",
+              "RelativeToolTip": "Lab10_BTVN_Bai1(new)\\Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:37:55.84Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVienRespo.cs",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10\\Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new)\\Responsitories\\SinhVienRespo.cs",
+              "RelativeDocumentMoniker": "Lab10_BTVN_Bai1(new)\\Responsitories\\SinhVienRespo.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10\\Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new)\\Responsitories\\SinhVienRespo.cs",
+              "RelativeToolTip": "Lab10_BTVN_Bai1(new)\\Responsitories\\SinhVienRespo.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:35:04.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LT.Net\\Lab10\\Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new)\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab10_BTVN_Bai1(new)\\Form1.cs",
+              "ToolTip": "D:\\LT.Net\\Lab10\\Lab10_BTVN_Bai1(new)\\Lab10_BTVN_Bai1(new)\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab10_BTVN_Bai1(new)\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:26:50.965Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

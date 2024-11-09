@@ -76,11 +76,7 @@ namespace Lab9_Bai1_vd
             dataGridView1.Rows.Clear(); // Xóa các hàng trước khi tải lại dữ liệu
 
             int stt = 1;
-            //List<TblChiTietBanHang> lst = null;
-            //if (txtSHHD.Text != null)
-            //{
-            //    lst = _repos.ListMatHang(SoHieuHoaDon);
-            //}
+            
 
             foreach (var stu in _repos.ListMatHang(SoHieuHoaDon))
             {

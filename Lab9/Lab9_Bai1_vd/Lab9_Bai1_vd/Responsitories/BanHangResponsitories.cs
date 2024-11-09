@@ -1,8 +1,10 @@
 ﻿using Lab9_Bai1_vd.Context;
 using Lab9_Bai1_vd.DomainClass;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting.Contexts;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -12,6 +14,7 @@ namespace Lab9_Bai1_vd.Responsitories
 {
     public class BanHangResponsitories
     {
+        
         private DBContext _context;
 
         
@@ -65,7 +68,31 @@ namespace Lab9_Bai1_vd.Responsitories
             }
             return null;
         }
+        public TblKhachHang GetKhachHangById(string txtNoiDung)
+        {
+            //Include sẽ nạp data vào Icollection để lấy dữ liệu mà các Icollection chứa id khách hàng 
+            //b1: lấy dữ liệu TblKhachHang
+            //b2: join vào bảng TblBanHang thông qua nạp dữ liệu (Include) vào Icollection TblBanHang của bảng TblKhachHang
+            //b3: join vào TblChiTietBanHang thông qua Mã hiệu HD, và Include data vào Icollection TblChitietBanHang của bảng TblBanHang
+            //b4: join TblMatHang thông qua mã mặt hàng , Include data vào Icollection TblMatHang của bảng TblChiTietBanHang
+            var khach = _context.TblKhachHang.Include(c => c.TblBanHang) //lấy cả list banHang thông qua mã kh
+                 .ThenInclude(c => c.TblChiTietBanHang)//lấy cả list ctbanhang thông qua số hiệu hđ
+                 .ThenInclude(c => c.MaMhNavigation)//chỉ lấy mã mh để tìm tên mặt hàng
+                 .FirstOrDefault(kh => kh.MaKh == txtNoiDung);
+           if(khach != null)
+           {
+                return khach;
+           }
+            else
+            {
+                return null;
+            }
 
-       
+
+           
+
+        }
+
+
     }
 }

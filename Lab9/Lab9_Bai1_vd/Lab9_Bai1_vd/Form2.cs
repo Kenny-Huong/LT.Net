@@ -67,7 +67,7 @@ namespace Lab9_Bai1_vd
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
-        {
+        {   
             if (dataGridView1.CurrentRow == null)
             {
                 MessageBox.Show("Vui lòng chọn mặt hàng để xóa.");
@@ -102,6 +102,7 @@ namespace Lab9_Bai1_vd
                 MessageBox.Show("Vui lòng chọn mặt hàng để sửa thông tin.");
                 return;
             }
+
 
             var obj = new TblMatHang
             {

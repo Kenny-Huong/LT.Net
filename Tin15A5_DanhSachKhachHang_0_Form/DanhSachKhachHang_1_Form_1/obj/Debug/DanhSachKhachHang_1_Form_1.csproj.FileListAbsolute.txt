@@ -1,0 +1,30 @@
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_1\DanhSachKhachHang_1_Form_1\bin\Debug\DanhSachKhachHang_1_Form_1.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_1\DanhSachKhachHang_1_Form_1\bin\Debug\DanhSachKhachHang_1_Form_1.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_1\DanhSachKhachHang_1_Form_1\bin\Debug\DanhSachKhachHang_1_Form_1.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_1\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_1\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.frm_KhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_1\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_1\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_1\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_1\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_1\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_2_Form_2\DanhSachKhachHang_1_Form_1\bin\Debug\DanhSachKhachHang_1_Form_1.exe.config
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_2_Form_2\DanhSachKhachHang_1_Form_1\bin\Debug\DanhSachKhachHang_1_Form_1.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_2_Form_2\DanhSachKhachHang_1_Form_1\bin\Debug\DanhSachKhachHang_1_Form_1.pdb
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_2_Form_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.csprojAssemblyReference.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_2_Form_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.frm_KhachHang.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_2_Form_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.Properties.Resources.resources
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_2_Form_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.csproj.GenerateResource.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_2_Form_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.csproj.CoreCompileInputs.cache
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_2_Form_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.exe
+C:\Users\Vu Anh Tuan\Desktop\Tin15A6_DanhSachKhachHang_2_Form_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.pdb
+D:\2023 - Học Kỳ 2 (T2.2024)\3. Lập trình. NET\Buổi 10 - ListView\4. Tin 15A6 - T7(3,4,5,6)\Load Data from SQL Server\Tin15A6_DanhSachKhachHang_2_Form_2_2\DanhSachKhachHang_1_Form_1\bin\Debug\DanhSachKhachHang_1_Form_1.exe.config
+D:\2023 - Học Kỳ 2 (T2.2024)\3. Lập trình. NET\Buổi 10 - ListView\4. Tin 15A6 - T7(3,4,5,6)\Load Data from SQL Server\Tin15A6_DanhSachKhachHang_2_Form_2_2\DanhSachKhachHang_1_Form_1\bin\Debug\DanhSachKhachHang_1_Form_1.exe
+D:\2023 - Học Kỳ 2 (T2.2024)\3. Lập trình. NET\Buổi 10 - ListView\4. Tin 15A6 - T7(3,4,5,6)\Load Data from SQL Server\Tin15A6_DanhSachKhachHang_2_Form_2_2\DanhSachKhachHang_1_Form_1\bin\Debug\DanhSachKhachHang_1_Form_1.pdb
+D:\2023 - Học Kỳ 2 (T2.2024)\3. Lập trình. NET\Buổi 10 - ListView\4. Tin 15A6 - T7(3,4,5,6)\Load Data from SQL Server\Tin15A6_DanhSachKhachHang_2_Form_2_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.csprojAssemblyReference.cache
+D:\2023 - Học Kỳ 2 (T2.2024)\3. Lập trình. NET\Buổi 10 - ListView\4. Tin 15A6 - T7(3,4,5,6)\Load Data from SQL Server\Tin15A6_DanhSachKhachHang_2_Form_2_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.frm_KhachHang.resources
+D:\2023 - Học Kỳ 2 (T2.2024)\3. Lập trình. NET\Buổi 10 - ListView\4. Tin 15A6 - T7(3,4,5,6)\Load Data from SQL Server\Tin15A6_DanhSachKhachHang_2_Form_2_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.Properties.Resources.resources
+D:\2023 - Học Kỳ 2 (T2.2024)\3. Lập trình. NET\Buổi 10 - ListView\4. Tin 15A6 - T7(3,4,5,6)\Load Data from SQL Server\Tin15A6_DanhSachKhachHang_2_Form_2_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.csproj.GenerateResource.cache
+D:\2023 - Học Kỳ 2 (T2.2024)\3. Lập trình. NET\Buổi 10 - ListView\4. Tin 15A6 - T7(3,4,5,6)\Load Data from SQL Server\Tin15A6_DanhSachKhachHang_2_Form_2_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.csproj.CoreCompileInputs.cache
+D:\2023 - Học Kỳ 2 (T2.2024)\3. Lập trình. NET\Buổi 10 - ListView\4. Tin 15A6 - T7(3,4,5,6)\Load Data from SQL Server\Tin15A6_DanhSachKhachHang_2_Form_2_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.exe
+D:\2023 - Học Kỳ 2 (T2.2024)\3. Lập trình. NET\Buổi 10 - ListView\4. Tin 15A6 - T7(3,4,5,6)\Load Data from SQL Server\Tin15A6_DanhSachKhachHang_2_Form_2_2\DanhSachKhachHang_1_Form_1\obj\Debug\DanhSachKhachHang_1_Form_1.pdb

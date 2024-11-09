@@ -185,6 +185,24 @@
     <Compile Include="FrmBanHang.Designer.cs">
       <DependentUpon>FrmBanHang.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrTimKiemKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrTimKiemKH.Designer.cs">
+      <DependentUpon>FrTimKiemKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrTimKiemKHMuaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrTimKiemKHMuaHang.Designer.cs">
+      <DependentUpon>FrTimKiemKHMuaHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrTimKiemMH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrTimKiemMH.Designer.cs">
+      <DependentUpon>FrTimKiemMH.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Responsitories\BanHangResponsitories.cs" />
@@ -198,6 +216,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmBanHang.resx">
       <DependentUpon>FrmBanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrTimKiemKH.resx">
+      <DependentUpon>FrTimKiemKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrTimKiemKHMuaHang.resx">
+      <DependentUpon>FrTimKiemKHMuaHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrTimKiemMH.resx">
+      <DependentUpon>FrTimKiemMH.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
